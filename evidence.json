@@ -1,0 +1,18 @@
+{
+  "project": "16-lesson-forge",
+  "node": "v26.13.0",
+  "ok": true,
+  "durationMs": 401,
+  "checks": [
+    {
+      "name": "unit-tests",
+      "ok": true,
+      "detail": "12 passed, 0 failed"
+    },
+    {
+      "name": "cli-smoke",
+      "ok": true,
+      "detail": "cli completed"
+    }
+  ]
+}
